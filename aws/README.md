@@ -1,4 +1,4 @@
-# Provision multiple EKS clusters (parameterised Terraform modules)
+## Provision multiple EKS clusters (parameterised Terraform modules)
 
 ```bash
 terraform init
