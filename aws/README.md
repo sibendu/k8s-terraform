@@ -7,3 +7,5 @@ terraform apply
 ```
 
 kubeconfig file for each cluster is also created (same folder)
+
+(Reference: https://learnk8s.io/terraform-eks )
